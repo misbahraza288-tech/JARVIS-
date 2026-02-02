@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI Studio",
+  "description": "A world-class multimodal AI suite featuring real-time voice/video interaction, high-fidelity image generation, and search-grounded intelligence powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
